@@ -1,5 +1,13 @@
-## Hi there 👋
+## Yo, world 👋
 
+I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I specialize in JAVA, but am also open to other programming languages such as Go and C#. 
+
+🎯 I truly believe that once we develop well our logical thinkng, understand how the code is executed and we learn the good practices concerning a clean, simple as possible, readable and well structured code, changing technologies is not scary. 
+
+💡 I'm currently looking forward to completing my courses and starting an internship as a back-end/full stack apprentice.
+
+☎️ how to reach me ? 
+-0766 49 11 13
 <!--
 **KittyCody/KittyCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
