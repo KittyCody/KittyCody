@@ -1,10 +1,10 @@
 ## Yo, world 👋
 
-I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I specialize in JAVA, but am also open to other programming languages such as Go, C#,.Net, Typescript. 
+I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I did my studies primarily in JAVA, but am definitely open to other programming languages such as Go, C#,.Net, Typescript. 
 
-🎯 I truly believe that once we develop well our logical thinkng, understand how the code is executed and we learn the good practices concerning a clean, simple as possible, readable and well structured code, changing technologies is not scary. 
+🎯 I truly believe that once we develop well our logical thinkng, understand how the code is executed and we learn the good practices concerning a clean, simple as possible, readable and well structured code, changing technologies is not scary. (Still, a lot to learn !)
 
-💡 I'm currently looking forward to completing my courses and starting an internship as a back-end/full stack apprentice.
+💡 I'm currently looking forward to starting an internship as a back-end/full stack apprentice.
 
 ☎️ how to reach me ? 
 jekovakiity@gmail.com
