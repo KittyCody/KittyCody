@@ -6,7 +6,7 @@ I am a software engineer in training. Specializing in back-end development, but 
 
 💡 I'm currently looking forward to starting an internship as a back-end/full stack apprentice.
 
-☎️ how to reach me ? 
+📧  how to reach me ? 
 jekovakiity@gmail.com
 <!--
 **KittyCody/KittyCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
