@@ -1,6 +1,6 @@
 ## Yo, world 👋
 
-I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I did my studies primarily in JAVA, but am definitely open to other programming languages such as Go, C#, Typescript, Ruby.
+I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I did my studies primarily in JAVA, but am definitely open to other programming languages such as Kotlin, Go, C#, Typescript, Ruby.
 
 🎯 I truly believe that once we develop well our logical thinkng, understand how the code is executed and we learn the good practices concerning a clean, simple as possible, readable and well structured code, changing technologies is not scary. (Still, a lot to learn !)
 
