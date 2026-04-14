@@ -1,24 +1,13 @@
-## Yo, world 👋
+## Hey, I'm Kitty 👋
 
-I am a software engineer in training. Specializing in back-end development, but having as an objective to become one day a full stack developer. I did my studies primarily in JAVA, but am definitely open to other programming languages such as Kotlin, Go, C#, Typescript, Ruby.
+Backend & data software engineer based in Lyon (FR), open to Genève (CH) from July 2026.
 
-🎯 I truly believe that once we develop well our logical thinkng, understand how the code is executed and we learn the good practices concerning a clean, simple as possible, readable and well structured code, changing technologies is not scary. (Still, a lot to learn !)
+I specialize in backend and data pipelines — building, fiabilising and shipping production-grade data flows. My main stack: Kotlin · Python · Spring Boot · PostgreSQL · MongoDB · AWS · Docker.
 
-💡 I'm currently looking forward to starting an internship as a back-end/full stack apprentice.
+🎯 I care about code that is clean, testable, and maintainable. Once you understand how code executes and why good practices matter, picking up new languages is just a matter of time.
 
-📧  how to reach me ? 
-jekovakiity@gmail.com
-<!--
-**KittyCody/KittyCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently finishing my apprenticeship at Sopht (Lyon) — working on a Green IT platform: data ingestion pipelines, ETL transformations, acceptance testing, AWS migration.
 
-Here are some ideas to get you started:
+📍 Available for a CDI position from July 2026 — Genève / remote-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 jekovakiity@gmail.com · LinkedIn
