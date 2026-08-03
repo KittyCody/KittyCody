@@ -2,7 +2,7 @@
 
 Fullstack software engineer based in Lyon (FR), open to Genève (CH) from August 2026.
 
-Kotlin/Java - Spring Boot · Python · PostgreSQL · MongoDB · AWS · Docker. Kubernetes . JS/TS/ . React
+Kotlin/Java - Spring Boot · Python · PostgreSQL · MongoDB · AWS · Docker. Kubernetes . JS/TS . React
 
 🎯 I care about code that is clean, testable, and maintainable. Once you understand how code executes and why good practices matter, picking up new languages is just a matter of time.
 
