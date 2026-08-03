@@ -1,6 +1,6 @@
 ## Hey, I'm Kitty 👋
 
-Fullstack software engineer based in Lyon (FR), open to Genève (CH) from July 2026.
+Fullstack software engineer based in Lyon (FR), open to Genève (CH) from August 2026.
 
 I specialize in backend and data pipelines — building, fiabilising and shipping production-grade data flows. My main stack: Kotlin/Java - Spring Boot · Python · Spring Boot · PostgreSQL · MongoDB · AWS · Docker.
 
