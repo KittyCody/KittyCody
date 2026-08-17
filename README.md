@@ -6,6 +6,6 @@ Kotlin/Java - Spring Boot · Python · PostgreSQL · MongoDB · AWS · Docker. K
 
 🎯 I care about code that is clean, testable, and maintainable. Once you understand how code executes and why good practices matter, picking up new languages is just a matter of right attitude.
 
-📍 Available for a CDI position from August 2026.
+📍 Available for a permanent position from August 2026.
 
 📧 jekovakiity@gmail.com · LinkedIn
